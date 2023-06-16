@@ -1,0 +1,19 @@
+.gallery-item {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+
+.gallery-item li {
+    display: inline-block;
+    
+}
+.title h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.gallery-item li img:hover {
+    opacity: 0.8;
+    
+
+}
